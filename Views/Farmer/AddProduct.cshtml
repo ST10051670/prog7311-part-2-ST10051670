@@ -1,0 +1,68 @@
+﻿@model MUHAMMED_ZIA_DESAI.ST10051670.POE.Models.Product
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<h2 class="text-center">@ViewData["Title"]</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="AddProduct" method="post">
+            <h2 class="text-center">Add a New Product</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Name" class="form-control" id="Name" placeholder="Product Name" required />
+                <label asp-for="Name">Name</label>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <select asp-for="Category" class="form-control" id="Category" required>
+                    <option value="">-- Select Category --</option>
+                    <option value="Dairy">Dairy</option>
+                    <option value="Grains">Grains</option>
+                    <option value="Fruits">Fruits</option>
+                    <option value="Vegetables">Vegetables</option>
+                    <option value="Seeds">Seeds</option>
+                    <option value="Wool">Wool</option>
+                    <option value="Honey">Honey</option>
+                    <option value="Egg">Egg</option>
+                    <option value="Meat">Meat</option>
+                </select>
+                <label asp-for="Category">Category</label>
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Price" type="number" class="form-control" id="Price" placeholder="Price" required />
+                <label asp-for="Price">Price</label>
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Quantity" type="number" class="form-control" id="Quantity" placeholder="Quantity" required />
+                <label asp-for="Quantity">Quantity</label>
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="ProductionDate" type="date" class="form-control" id="ProductionDate" required />
+                <label asp-for="ProductionDate">Production Date</label>
+                <span asp-validation-for="ProductionDate" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="w-100 btn btn-success btn-lg">Save Product</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+‌
