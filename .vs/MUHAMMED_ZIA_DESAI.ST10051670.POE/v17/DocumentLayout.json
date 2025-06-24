@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\UNI\\BCAD 2025\\SEMESTER 1\\PROG 3A\\POE\\PART 2\\MUHAMMED_ZIA_DESAI.ST10051670.POE\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B55DB56B-0678-43C7-AE65-7B21A507D766}|MUHAMMED_ZIA_DESAI.ST10051670.POE.csproj|e:\\uni\\bcad 2025\\semester 1\\prog 3a\\poe\\part 2\\muhammed_zia_desai.st10051670.poe\\views\\farmer\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B55DB56B-0678-43C7-AE65-7B21A507D766}|MUHAMMED_ZIA_DESAI.ST10051670.POE.csproj|solutionrelative:views\\farmer\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55DB56B-0678-43C7-AE65-7B21A507D766}|MUHAMMED_ZIA_DESAI.ST10051670.POE.csproj|e:\\uni\\bcad 2025\\semester 1\\prog 3a\\poe\\part 2\\muhammed_zia_desai.st10051670.poe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55DB56B-0678-43C7-AE65-7B21A507D766}|MUHAMMED_ZIA_DESAI.ST10051670.POE.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,32 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "E:\\UNI\\BCAD 2025\\SEMESTER 1\\PROG 3A\\POE\\PART 2\\MUHAMMED_ZIA_DESAI.ST10051670.POE\\Views\\Farmer\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "Views\\Farmer\\AddProduct.cshtml",
-              "ToolTip": "E:\\UNI\\BCAD 2025\\SEMESTER 1\\PROG 3A\\POE\\PART 2\\MUHAMMED_ZIA_DESAI.ST10051670.POE\\Views\\Farmer\\AddProduct.cshtml",
-              "RelativeToolTip": "Views\\Farmer\\AddProduct.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T15:30:45.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\UNI\\BCAD 2025\\SEMESTER 1\\PROG 3A\\POE\\PART 2\\MUHAMMED_ZIA_DESAI.ST10051670.POE\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "E:\\UNI\\BCAD 2025\\SEMESTER 1\\PROG 3A\\POE\\PART 2\\MUHAMMED_ZIA_DESAI.ST10051670.POE\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAACiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:28:13.279Z",
-              "EditorCaption": ""
             }
           ]
         }

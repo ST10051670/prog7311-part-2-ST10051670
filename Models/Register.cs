@@ -31,5 +31,6 @@ namespace MUHAMMED_ZIA_DESAI.ST10051670.POE.Models
     }
 }
 
-//wadepickett (2024). Part 4, add a model to an ASP.NET Core MVC app.
-//[online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-9.0&tabs=visual-studio.
+//wadepickett (2024).
+//Part 4, add a model to an ASP.NET Core MVC app.
+//Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-9.0&tabs=visual-studio. (Accessed: 5 May 2025).‌

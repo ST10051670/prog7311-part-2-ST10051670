@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MUHAMMED_ZIA_DESAI.ST10051670.POE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05b8177d0c22683c2d806557a67329143801e3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MUHAMMED_ZIA_DESAI.ST10051670.POE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MUHAMMED_ZIA_DESAI.ST10051670.POE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
